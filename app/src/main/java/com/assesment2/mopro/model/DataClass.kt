@@ -1,4 +1,4 @@
-package com.assesment2.estuff.model
+package com.assesment2.mopro.model
 
 data class DataClass(
     var dataImage:Int,

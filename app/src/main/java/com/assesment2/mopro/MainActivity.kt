@@ -1,4 +1,4 @@
-package com.assesment2.estuff
+package com.assesment2.mopro
 
 import android.content.Intent
 import android.os.Bundle
@@ -7,9 +7,8 @@ import androidx.appcompat.app.ActionBarDrawerToggle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.drawerlayout.widget.DrawerLayout
 import androidx.fragment.app.Fragment
-import com.assesment2.estuff.databinding.ActivityArtikelBinding
-import com.assesment2.estuff.databinding.ActivityMainBinding
-import com.assesment2.estuff.view.main.ArtikelActivity
+import com.assesment2.mopro.databinding.ActivityMainBinding
+import com.assesment2.mopro.view.main.ArtikelActivity
 import com.google.android.material.navigation.NavigationView
 
 class MainActivity : AppCompatActivity() {

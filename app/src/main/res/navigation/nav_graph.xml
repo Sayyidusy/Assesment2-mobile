@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/itemListFragment"
-        android:name="com.assesment2.estuff.ui.ItemListFragment"
+        android:name="com.assesment2.mopro.ui.ItemListFragment"
         android:label="@string/app_name"
         tools:layout="@layout/item_list_fragment">
         <action
@@ -19,7 +19,7 @@
     </fragment>
     <fragment
         android:id="@+id/itemDetailFragment"
-        android:name="com.assesment2.estuff.ui.DetailFragment"
+        android:name="com.assesment2.mopro.ui.DetailFragment"
         android:label="@string/item_detail_fragment_title"
         tools:layout="@layout/fragment_detail_barang">
         <argument
@@ -31,7 +31,7 @@
     </fragment>
     <fragment
         android:id="@+id/addItemFragment"
-        android:name="com.assesment2.estuff.ui.AddItemFragment"
+        android:name="com.assesment2.mopro.ui.AddItemFragment"
         android:label="{title}"
         tools:layout="@layout/fragment_tambah_barang">
         <argument

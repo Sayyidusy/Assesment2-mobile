@@ -1,4 +1,4 @@
-package com.assesment2.estuff.ui
+package com.assesment2.mopro.ui
 
 import android.content.Context.INPUT_METHOD_SERVICE
 import android.os.Bundle
@@ -11,11 +11,11 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.activityViewModels
 import androidx.navigation.fragment.findNavController
 import androidx.navigation.fragment.navArgs
-import com.assesment2.estuff.data.DatabaseApplication
-import com.assesment2.estuff.InventoryViewModel
-import com.assesment2.estuff.InventoryViewModelFactory
-import com.assesment2.estuff.data.Item
-import com.assesment2.estuff.databinding.FragmentTambahBarangBinding
+import com.assesment2.mopro.data.DatabaseApplication
+import com.assesment2.mopro.InventoryViewModel
+import com.assesment2.mopro.InventoryViewModelFactory
+import com.assesment2.mopro.data.Item
+import com.assesment2.mopro.databinding.FragmentTambahBarangBinding
 
 
 class AddItemFragment : Fragment() {

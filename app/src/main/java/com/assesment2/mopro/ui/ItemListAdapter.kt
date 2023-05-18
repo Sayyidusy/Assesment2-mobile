@@ -1,13 +1,13 @@
-package com.assesment2.estuff.ui
+package com.assesment2.mopro.ui
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
-import com.assesment2.estuff.data.Item
-import com.assesment2.estuff.data.getFormattedPrice
-import com.assesment2.estuff.databinding.ItemListBarangBinding
+import com.assesment2.mopro.data.Item
+import com.assesment2.mopro.data.getFormattedPrice
+import com.assesment2.mopro.databinding.ItemListBarangBinding
 
 
 

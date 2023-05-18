@@ -1,4 +1,4 @@
-package com.assesment2.estuff.view.main
+package com.assesment2.mopro.view.main
 
 import android.annotation.SuppressLint
 import android.os.Bundle
@@ -6,10 +6,10 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.app.AppCompatDelegate
 import androidx.appcompat.widget.SearchView
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.assesment2.estuff.R
-import com.assesment2.estuff.data.AdapterClass
-import com.assesment2.estuff.model.DataClass
-import com.assesment2.estuff.databinding.ActivityArtikelBinding
+import com.assesment2.mopro.R
+import com.assesment2.mopro.data.AdapterClass
+import com.assesment2.mopro.model.DataClass
+import com.assesment2.mopro.databinding.ActivityArtikelBinding
 import java.util.*
 import kotlin.collections.ArrayList
 

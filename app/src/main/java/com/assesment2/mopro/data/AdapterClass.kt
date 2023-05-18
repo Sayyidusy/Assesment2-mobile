@@ -1,4 +1,4 @@
-package com.assesment2.estuff.data
+package com.assesment2.mopro.data
 
 import android.view.LayoutInflater
 import android.view.View
@@ -7,8 +7,8 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.constraintlayout.widget.ConstraintLayout
 import androidx.recyclerview.widget.RecyclerView
-import com.assesment2.estuff.R
-import com.assesment2.estuff.model.DataClass
+import com.assesment2.mopro.R
+import com.assesment2.mopro.model.DataClass
 
 class AdapterClass(private var mList: List<DataClass>) :
     RecyclerView.Adapter<AdapterClass.LanguageViewHolder>() {

@@ -1,4 +1,4 @@
-package com.assesment2.estuff.view.history
+package com.assesment2.mopro.view.history
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -8,7 +8,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import androidx.navigation.NavController
 import androidx.navigation.fragment.NavHostFragment
-import com.assesment2.estuff.R
+import com.assesment2.mopro.R
 
 class HistoryFragment : Fragment() {
 

@@ -1,4 +1,4 @@
-package com.assesment2.estuff
+package com.assesment2.mopro
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

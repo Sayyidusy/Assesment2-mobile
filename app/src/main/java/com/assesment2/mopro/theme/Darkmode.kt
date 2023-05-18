@@ -1,4 +1,4 @@
-package com.assesment2.estuff.theme
+package com.assesment2.mopro.theme
 
 import android.app.Application
 

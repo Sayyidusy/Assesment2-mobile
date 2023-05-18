@@ -1,4 +1,4 @@
-package com.assesment2.estuff.data
+package com.assesment2.mopro.data
 
 import android.content.Context
 import androidx.room.Database

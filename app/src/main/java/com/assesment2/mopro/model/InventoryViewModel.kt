@@ -1,12 +1,12 @@
-package com.assesment2.estuff
+package com.assesment2.mopro
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.asLiveData
 import androidx.lifecycle.viewModelScope
-import com.assesment2.estuff.data.Item
-import com.assesment2.estuff.data.BarangDao
+import com.assesment2.mopro.data.Item
+import com.assesment2.mopro.data.BarangDao
 import kotlinx.coroutines.launch
 
 

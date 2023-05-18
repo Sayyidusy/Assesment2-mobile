@@ -1,11 +1,11 @@
-package com.assesment2.estuff.view.history
+package com.assesment2.mopro.view.history
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.NavController
 import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.NavigationUI.setupActionBarWithNavController
-import com.assesment2.estuff.R
+import com.assesment2.mopro.R
 
 class HistoryActivity : AppCompatActivity(R.layout.activity_history) {
 

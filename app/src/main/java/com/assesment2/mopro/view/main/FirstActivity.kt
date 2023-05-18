@@ -1,10 +1,10 @@
-package com.assesment2.estuff.view.main
+package com.assesment2.mopro.view.main
 
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.assesment2.estuff.MainActivity
-import com.assesment2.estuff.databinding.ActivityFirstBinding
+import com.assesment2.mopro.MainActivity
+import com.assesment2.mopro.databinding.ActivityFirstBinding
 
 class FirstActivity : AppCompatActivity() {
 

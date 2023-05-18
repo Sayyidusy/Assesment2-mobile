@@ -10,7 +10,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.assesment2.estuff"
+        applicationId "com.assesment2.mopro"
         minSdkVersion 19
         targetSdkVersion 31
         versionCode 1

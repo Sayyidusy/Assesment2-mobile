@@ -1,4 +1,4 @@
-package com.assesment2.estuff.ui
+package com.assesment2.mopro.ui
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -8,9 +8,9 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.activityViewModels
 import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.assesment2.estuff.*
-import com.assesment2.estuff.data.DatabaseApplication
-import com.assesment2.estuff.databinding.ItemListFragmentBinding
+import com.assesment2.mopro.*
+import com.assesment2.mopro.data.DatabaseApplication
+import com.assesment2.mopro.databinding.ItemListFragmentBinding
 
 
 class ItemListFragment : Fragment() {
